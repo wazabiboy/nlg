@@ -1,0 +1,17 @@
+{
+    "name": "NLG Tournament",
+    "short_name": "NLG",
+    "description": "Plateforme de tournois NLG",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#4285f4",
+    "icons": [
+      {
+        "src": "images/icon.jpg",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ]
+  }
+  

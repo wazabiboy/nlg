@@ -1,0 +1,34 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    color: orange;
+  }
+  
+  h1, h2 {
+    color: orange;
+  }
+  
+  #welcome-section, #live-section, #participants-section, #current-competitors-section {
+    padding: 20px;
+    margin: 20px;
+    background-color: black;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  }
+  
+  #live-video {
+    width: 100%;
+  }
+  
+  #participants-list, #current-competitors-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
